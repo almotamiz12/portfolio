@@ -1,11 +1,4 @@
 # HTTrack Website Copier Cookie File
 # This file format is compatible with Netscape cookies
-ramady.sa	TRUE	/en	FALSE	1999999999	localization	SA
-ramady.sa	TRUE	/	FALSE	1999999999	_shopify_analytics	:AZwfZhVsAAEAxmo8m4aLc6If2HQjyaKTJ_rskgjQV0KQ0lyv1yDBa9GSWu7TwaOpT2nBzfEjKQ:
-ramady.sa	TRUE	/	FALSE	1999999999	_shopify_essential	:AZwfZhMoAAH_IElLasbRsFsdecLud-Au1hXjWA6Hq1aCuRsFEH6ZJgbmohzE7poiBxCc4zfnK3ttFnliHGbyAsnfvlLAmT6O0qTdadIbxycUKjyvX8huO_R4f4JiFQo1DWSq9gym2xSMnPO7ozaYz7tMTzelobXBE2nEQSAGQ--R-orVkIwZUuuQWy5eTkzYcaKrzmbfoHHudeWx0892HkQaVronE5a6kfs14zP0kg88mBj2GVx3F8TPbxh-Me4Ir9hbBTX1p7uEVdHqXoeVHRxzf1VK8X5_DHpWbe2LR1vHFnN_HBA7zXzspfWoMZkjfrxqHRLlkvCd4hWAF8vb1VV9S3JqON7HYjTalkma8mnTvxLiXyHxpVu31HSJa7Y7JiZ8:
-ramady.sa	TRUE	/	FALSE	1999999999	Priority	High
-ramady.sa	TRUE	/	FALSE	1999999999	localization	SA
-ramady.sa	TRUE	/	FALSE	1999999999	_shopify_y	d2f8465e-9f54-47d8-8b9b-9e5600c12636
-ramady.sa	TRUE	/	FALSE	1999999999	_shopify_s	8ed70ccc-d332-4eaf-af80-44655b572344
-ramady.sa	TRUE	/	FALSE	1999999999	SameSite	Lax
+.google.com	TRUE	/	FALSE	1999999999	NID	528=mCVw9ySoOCxVP67_7C_L1beDKM2nL4HVdW-QqiS4c5pBlcnBBjC7f5XePesbX7jz6nDeF5wQeWSwM3fNbLRo6w0Cmnsra4M8bVHwobzcZ1YpBWgoCDMY14-R9oLLosJoQGF6cdD-knGNwNEJnzyiARkkym9fgO13UJdfwQiYrgKu2F8JEJekkn4DyqP-kyXFU2gsoadoKeEPGEBf
 
